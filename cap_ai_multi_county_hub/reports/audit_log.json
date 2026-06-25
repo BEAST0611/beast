@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-06-25T16:42:00.765754",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for admin123"
+  },
+  {
+    "timestamp": "2026-06-25T16:42:19.707962",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for admin1234"
+  },
+  {
+    "timestamp": "2026-06-25T16:42:39.922261",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for admin / admin1234"
+  },
+  {
+    "timestamp": "2026-06-25T16:42:46.234582",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for admin / admin123"
+  },
+  {
+    "timestamp": "2026-06-25T16:43:02.651746",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for admin / admin123"
+  },
+  {
+    "timestamp": "2026-06-25T16:43:17.689647",
+    "user": null,
+    "role": null,
+    "action": "LOGIN_FAILED",
+    "detail": "Failed login attempt for auditor / auditor123"
+  },
+  {
+    "timestamp": "2026-06-25T16:44:03.496881",
+    "user": "auditor",
+    "role": "Auditor",
+    "action": "LOGIN",
+    "detail": "User auditor authenticated as Auditor"
+  },
+  {
+    "timestamp": "2026-06-25T16:44:06.263751",
+    "user": "auditor",
+    "role": "Auditor",
+    "action": "PAGE_VIEW",
+    "detail": "Executive Command Center"
+  },
+  {
+    "timestamp": "2026-06-25T16:51:32.309787",
+    "user": "manager",
+    "role": "County Manager",
+    "action": "LOGIN",
+    "detail": "User manager authenticated as County Manager"
+  },
+  {
+    "timestamp": "2026-06-25T16:51:34.435279",
+    "user": "manager",
+    "role": "County Manager",
+    "action": "PAGE_VIEW",
+    "detail": "Executive Command Center"
+  }
+]
